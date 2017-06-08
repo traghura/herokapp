@@ -1,5 +1,5 @@
 package tests;
 
-public interface Typo {
+public class Typo {
 
 }
