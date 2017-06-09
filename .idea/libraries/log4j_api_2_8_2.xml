@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="log4j-api-2.8.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/selenium/jars/log4j-api-2.8.2.jar!/" />
+      <root url="jar://$USER_HOME$/selenium/jars/log4j-core-2.8.2.jar!/" />
+      <root url="jar://$USER_HOME$/selenium/jars/poi-3.16.jar!/" />
+      <root url="jar://$USER_HOME$/selenium/jars/poi-ooxml-3.16.jar!/" />
+      <root url="jar://$USER_HOME$/selenium/jars/poi-ooxml-schemas-3.16.jar!/" />
+      <root url="jar://$USER_HOME$/selenium/jars/saxon-8.7.jar!/" />
+      <root url="jar://$USER_HOME$/selenium/jars/SaxonLiaison.jar!/" />
+      <root url="jar://$USER_HOME$/selenium/jars/selenium-server-standalone-3.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/selenium/jars/testng.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
